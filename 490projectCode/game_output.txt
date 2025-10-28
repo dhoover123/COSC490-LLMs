@@ -1,0 +1,71 @@
+Story Premise: test
+
+Setting: The Shattered Echoes: The world of Aethelgard was once a vibrant land nourished by the Harmony Stone, a crystalline artifact that regulated the flow of magic and ensured balance. However, a cataclysmic event known as the ‘Silent Fracture’ shattered the Harmony Stone, scattering its fragments across the land and unleashing chaotic surges of unpredictable magic. This fractured the world, creating warped landscapes, mutated creatures, and pockets of temporal instability. The dominant culture is a blend of resilient, pragmatic human settlements, alongside remnants of ancient, magically-attuned elven clans struggling to understand and control the new, volatile magic. Technology is rudimentary, relying heavily on enchanted tools and rune-carving. The air itself hums with residual magical energy, making travel dangerous and revealing glimpses of past and future events – 'Echoes' – that can be both helpful and misleading. Society is largely decentralized, with small kingdoms and independent villages vying for resources and control in the aftermath of the Fracture.
+
+Main Quest:
+Title: Reassemble the Harmony
+Description: The scattered fragments of the Harmony Stone are the key to restoring Aethelgard. You must journey across the fractured lands, overcome dangerous trials, and collect the fragments before they fall into the wrong hands – a cult known as the ‘Void Seekers’ who wish to plunge the world into eternal chaos.
+
+Side Quests:
+Title: The Lost Cartographer
+Description: A local historian in Silverstream Village claims to have discovered a map leading to a cache of ancient elven knowledge, but he's been kidnapped by mutated wolves guarding a narrow pass.
+
+Title: Echoes of the Past
+Description: Lyra discovers a repeating Echo in the Whispering Woods – a vision of a ritual performed by the elves before the Fracture. She needs your help to understand the ritual and potentially prevent a future disaster.
+
+Title: The Observatory's Secret
+Description: The Ruined Observatory holds clues to the nature of the Fracture, but it’s infested with corrupted constructs guarding forgotten knowledge.  Barty needs assistance to repair a critical focusing lens.
+
+Game Log:
+Location: Silverstream Village
+Current Quests:
+- Reassemble the Harmony: The scattered fragments of the Harmony Stone are the key to restoring Aethelgard. You must journey across the fractured lands, overcome dangerous trials, and collect the fragments before they fall into the wrong hands – a cult known as the ‘Void Seekers’ who wish to plunge the world into eternal chaos. (Location: The Heartstone Citadel)
+- The Lost Cartographer: A local historian in Silverstream Village claims to have discovered a map leading to a cache of ancient elven knowledge, but he's been kidnapped by mutated wolves guarding a narrow pass. (Location: The Obsidian Peaks)
+- Echoes of the Past: Lyra discovers a repeating Echo in the Whispering Woods – a vision of a ritual performed by the elves before the Fracture. She needs your help to understand the ritual and potentially prevent a future disaster. (Location: Whispering Woods)
+- The Observatory's Secret: The Ruined Observatory holds clues to the nature of the Fracture, but it’s infested with corrupted constructs guarding forgotten knowledge.  Barty needs assistance to repair a critical focusing lens. (Location: The Ruined Observatory)
+1. Explore current location
+2. Travel to new location
+3. Check quest log
+4. Talk to companions
+5. Rest and heal
+6. Check inventory
+7. Exit game
+Location: Silverstream Village
+Current Quests:
+- Reassemble the Harmony: The scattered fragments of the Harmony Stone are the key to restoring Aethelgard. You must journey across the fractured lands, overcome dangerous trials, and collect the fragments before they fall into the wrong hands – a cult known as the ‘Void Seekers’ who wish to plunge the world into eternal chaos. (Location: The Heartstone Citadel)
+- The Lost Cartographer: A local historian in Silverstream Village claims to have discovered a map leading to a cache of ancient elven knowledge, but he's been kidnapped by mutated wolves guarding a narrow pass. (Location: The Obsidian Peaks)
+- Echoes of the Past: Lyra discovers a repeating Echo in the Whispering Woods – a vision of a ritual performed by the elves before the Fracture. She needs your help to understand the ritual and potentially prevent a future disaster. (Location: Whispering Woods)
+- The Observatory's Secret: The Ruined Observatory holds clues to the nature of the Fracture, but it’s infested with corrupted constructs guarding forgotten knowledge.  Barty needs assistance to repair a critical focusing lens. (Location: The Ruined Observatory)
+1. Interact with environment
+2. Travel to new location
+3. Check quest log
+4. Talk to companions
+5. Rest and heal
+6. Check inventory
+7. Exit game
+Location: Silverstream Village
+Current Quests:
+- Reassemble the Harmony: The scattered fragments of the Harmony Stone are the key to restoring Aethelgard. You must journey across the fractured lands, overcome dangerous trials, and collect the fragments before they fall into the wrong hands – a cult known as the ‘Void Seekers’ who wish to plunge the world into eternal chaos. (Location: The Heartstone Citadel)
+- The Lost Cartographer: A local historian in Silverstream Village claims to have discovered a map leading to a cache of ancient elven knowledge, but he's been kidnapped by mutated wolves guarding a narrow pass. (Location: The Obsidian Peaks)
+- Echoes of the Past: Lyra discovers a repeating Echo in the Whispering Woods – a vision of a ritual performed by the elves before the Fracture. She needs your help to understand the ritual and potentially prevent a future disaster. (Location: Whispering Woods)
+- The Observatory's Secret: The Ruined Observatory holds clues to the nature of the Fracture, but it’s infested with corrupted constructs guarding forgotten knowledge.  Barty needs assistance to repair a critical focusing lens. (Location: The Ruined Observatory)
+1. Interact with environment
+2. Travel to new location
+3. Check quest log
+4. Talk to companions
+5. Rest and heal
+6. Check inventory
+7. Exit game
+Location: Silverstream Village
+Current Quests:
+- Reassemble the Harmony: The scattered fragments of the Harmony Stone are the key to restoring Aethelgard. You must journey across the fractured lands, overcome dangerous trials, and collect the fragments before they fall into the wrong hands – a cult known as the ‘Void Seekers’ who wish to plunge the world into eternal chaos. (Location: The Heartstone Citadel)
+- The Lost Cartographer: A local historian in Silverstream Village claims to have discovered a map leading to a cache of ancient elven knowledge, but he's been kidnapped by mutated wolves guarding a narrow pass. (Location: The Obsidian Peaks)
+- Echoes of the Past: Lyra discovers a repeating Echo in the Whispering Woods – a vision of a ritual performed by the elves before the Fracture. She needs your help to understand the ritual and potentially prevent a future disaster. (Location: Whispering Woods)
+- The Observatory's Secret: The Ruined Observatory holds clues to the nature of the Fracture, but it’s infested with corrupted constructs guarding forgotten knowledge.  Barty needs assistance to repair a critical focusing lens. (Location: The Ruined Observatory)
+1. Interact with environment
+2. Travel to new location
+3. Check quest log
+4. Talk to companions
+5. Rest and heal
+6. Check inventory
+7. Exit game
